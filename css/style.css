@@ -160,8 +160,10 @@ svg{
 .me .container .left-asset{
     width: 30%;
     display: flex;
-    justify-content: center;
-    align-items: center;
+}
+
+.me .container .left-asset img{
+    width: 150%;
 }
 
 .me .container .right-infos{
